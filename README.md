@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jude Ogbozor
 - 👀 I’m interested in Data Science, Engineering and Machine learning
-- 🌱 I’m currently learning data science in depth. For now, with python
+- 🌱 I’m currently learning data Engineering in depth.
 - 💞️ I’m looking to collaborate on Artificial intelligent and big data. So, I am seriously looking for mentors
 - 📫 How to reach me judtheory@gmail.com
 
